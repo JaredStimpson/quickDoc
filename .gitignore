@@ -1,0 +1,7 @@
+.build/
+.release/
+.deps/
+dist/
+.vs/
+*.user
+*.suo
